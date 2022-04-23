@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Bayon&family=Oswald:wght@200&family=Ubuntu:wght@300&display=swap');
+#f1{
+    border: 1px solid;
+}
+#f2{
+    border: 1px solid;
+}
+/* #f{
+    width: 550px;
+} */
+p,ul{
+    font-size: large;
+}
+pre{
+    font-size: large;
+}
+img{
+    height:400px ;
+
+}
+/* #aa{
+    width:300px ;
+} */
